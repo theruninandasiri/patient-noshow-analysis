@@ -1,0 +1,6 @@
+wait_bucket,total_appointments,total_noshows,noshow_rate_pct
+0 days (same day),38562,1792,4.65
+1-7 days,32185,7772,24.15
+8-14 days,12025,3664,30.47
+15-30 days,17371,5661,32.59
+30+ days,10378,3425,33.0
